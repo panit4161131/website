@@ -1,0 +1,26 @@
+body {
+    background-image: url('https://wallpaperaccess.com/full/261049.gif');
+    font-family: 'Kanit', sans-serif;
+    background-repeat : repeat;
+  }
+    .mainpage {width: 1024px; margin: 0 auto;}
+   header
+    {
+      background-color: #F4ECF7;
+      color:black;
+      height:40px;
+      padding:10px;
+    
+  }
+
+  footer{
+    background-color: #F4ECF7;
+    color:black;
+    height: 40px;
+    padding:10px;
+    text-align: center;
+  }
+
+  .headname{
+     color: rgb(20, 9, 51);
+  }
