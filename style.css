@@ -2,6 +2,7 @@ body {
     background-image: url('https://wallpaperaccess.com/full/261049.gif');
     font-family: 'Kanit', sans-serif;
     background-repeat : repeat;
+    background-size: cover;
   }
     .mainpage {width: 1024px; margin: 0 auto;}
    header
