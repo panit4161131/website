@@ -24,10 +24,12 @@ body {
 
   .headname1{
      color: rgb(13, 143, 13);
+     font-size: 30px;
   }
 
   .headname2{
     color: rgb(54, 48, 73);
+    font-size: 10px;
  }
 
  .graphic{
