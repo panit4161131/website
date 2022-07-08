@@ -7,7 +7,7 @@ body {
     .mainpage {width: 1024px; margin: 0 auto;}
    header
     {
-      background-color: #dde4ff;
+      background-color: #dde0ff;
       color:rgb(0, 0, 0);
       height: 70px;
       padding:10px;
@@ -46,4 +46,9 @@ body {
  .top10{
   background-color: rgb(229, 240, 253);
  padding: 10px;
+}
+
+.img10{
+width: 190;
+border-radius: 10px;
 }
