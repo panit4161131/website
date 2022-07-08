@@ -15,7 +15,7 @@ body {
   }
 
   footer{
-    background-color: #edd6f5;
+    background-color: #f8e7fd;
     color:black;
     height: 40px;
     padding:10px;
@@ -39,7 +39,7 @@ body {
  }
 
  .maps{
- border: 1px solid rgb(218, 226, 252);
+ border: 1px solid rgb(232, 237, 255);
  height: 300px;
  }
  
