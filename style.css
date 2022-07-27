@@ -22,6 +22,11 @@ body {
     text-align: center;
   }
 
+a{
+  color: rgb(33, 189, 216);
+  text-decoration: none;
+}
+
   .headname1{
      color: rgb(70, 70, 70);
      font-size: 35px;
